@@ -1,0 +1,8 @@
+{
+  "name": "SegmentaIA — Plataforma Inteligente de Segmentación de Mercados",
+  "description": "Plataforma empresarial de segmentación de mercados con clustering K-Means real, análisis descriptivo sectorial, interpretación con IA, estrategias comerciales y personificaciones visuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
